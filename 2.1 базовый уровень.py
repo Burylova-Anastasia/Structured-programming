@@ -1,0 +1,5 @@
+A=int(input("Введите A: "))
+B=int(input("Введите B: "))
+if (A%2==1)and(B%2==1):
+    print("истина")
+else: print("ложь")
